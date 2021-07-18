@@ -1,0 +1,38 @@
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01.csproj.AssemblyReference.cache
+D:\Игры C#\Game_01\Game_01\obj\Debug\MainWindow.g.cs
+D:\Игры C#\Game_01\Game_01\obj\Debug\App.g.cs
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01_MarkupCompile.cache
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01_MarkupCompile.lref
+D:\Игры C#\Game_01\Game_01\bin\Debug\Game_01.exe.config
+D:\Игры C#\Game_01\Game_01\bin\Debug\Game_01.exe
+D:\Игры C#\Game_01\Game_01\bin\Debug\Game_01.pdb
+D:\Игры C#\Game_01\Game_01\obj\Debug\MainWindow.baml
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01.g.resources
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01.Properties.Resources.resources
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01.csproj.GenerateResource.cache
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01.csproj.CoreCompileInputs.cache
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01.exe
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01.pdb
+D:\Игры C#\Game_01\Game_01\bin\Debug\WpfAnimatedGif.dll
+D:\Игры C#\Game_01\Game_01\bin\Debug\WpfAnimatedGif.pdb
+D:\Игры C#\Game_01\Game_01\bin\Debug\WpfAnimatedGif.xml
+D:\Игры C#\Game_01\Game_01\obj\Debug\Game_01.csproj.CopyComplete
+C:\Users\cyber\Desktop\Game_01\Game_01\bin\Debug\Game_01.exe.config
+C:\Users\cyber\Desktop\Game_01\Game_01\bin\Debug\Game_01.exe
+C:\Users\cyber\Desktop\Game_01\Game_01\bin\Debug\Game_01.pdb
+C:\Users\cyber\Desktop\Game_01\Game_01\bin\Debug\WpfAnimatedGif.dll
+C:\Users\cyber\Desktop\Game_01\Game_01\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\cyber\Desktop\Game_01\Game_01\bin\Debug\WpfAnimatedGif.xml
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01.csproj.AssemblyReference.cache
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\MainWindow.g.cs
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\App.g.cs
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01_MarkupCompile.cache
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01_MarkupCompile.lref
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\MainWindow.baml
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01.g.resources
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01.Properties.Resources.resources
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01.csproj.GenerateResource.cache
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01.csproj.CoreCompileInputs.cache
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01.csproj.CopyComplete
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01.exe
+C:\Users\cyber\Desktop\Game_01\Game_01\obj\Debug\Game_01.pdb
